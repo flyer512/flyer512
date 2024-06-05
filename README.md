@@ -1,16 +1,19 @@
-## Hi there 👋
+![Header]()
 
-<!--
-**flyer512/flyer512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
 
-Here are some ideas to get you started:
+Всем привет! :wave:
+Меня зовут Руслан, я QA инженер по обеспечению качества. Мотивированный на достижение результата.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Языки програмирования и Инструменты
+
+![Flutter](https://img.shields.io/badge/Java-090909?style=for-the-badge-&logo=java$logoColor=30EF30)
+![Flutter](https://img.shields.io/badge/Docker-090909?style=for-the-badge-&logo=docker$logoColor=30EF30)
+![Flutter](https://img.shields.io/badge/Postman-090909?style=for-the-badge-&logo=postman$logoColor=30EF30)
+![Flutter](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge-&logo=soapui$logoColor=30EF30)
+![Flutter](https://img.shields.io/badge/SQL-090909?style=for-the-badge-&logo=sql$logoColor=30EF30)
+
+### Связь со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge-&logo=telegram$logoColor=30EF30)](https://www.t.me/russelboy1991)
+
